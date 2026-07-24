@@ -1,0 +1,7672 @@
+{
+  "language": "Japnese",
+  "words": [
+    {
+      "id": "mrmzr2we-9t9kab",
+      "text": "あ",
+      "meaning": "a",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.087Z"
+    },
+    {
+      "id": "mrmzr2ww-y13jsl",
+      "text": "い",
+      "meaning": "i",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.104Z"
+    },
+    {
+      "id": "mrmzr2ww-fevrqi",
+      "text": "う",
+      "meaning": "u",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.104Z"
+    },
+    {
+      "id": "mrmzr2ww-y60nue",
+      "text": "え",
+      "meaning": "e",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.104Z"
+    },
+    {
+      "id": "mrmzr2wx-019f66",
+      "text": "お",
+      "meaning": "o",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-0tjme3",
+      "text": "か",
+      "meaning": "ka",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-deu93n",
+      "text": "き",
+      "meaning": "ki",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-1qho96",
+      "text": "く",
+      "meaning": "ku",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-jzczjb",
+      "text": "け",
+      "meaning": "ke",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-hutd0t",
+      "text": "こ",
+      "meaning": "ko",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-3f1ufp",
+      "text": "さ",
+      "meaning": "sa",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-zclvhp",
+      "text": "し",
+      "meaning": "shi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-9r3i4r",
+      "text": "す",
+      "meaning": "su",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-rla8t2",
+      "text": "せ",
+      "meaning": "se",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-tfvgot",
+      "text": "そ",
+      "meaning": "so",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-ww38zp",
+      "text": "た",
+      "meaning": "ta",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-kb1ho0",
+      "text": "ち",
+      "meaning": "chi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-7r1osw",
+      "text": "つ",
+      "meaning": "tsu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-cebmr2",
+      "text": "て",
+      "meaning": "te",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-gswghs",
+      "text": "と",
+      "meaning": "to",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-m79elp",
+      "text": "な",
+      "meaning": "na",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-f0enk3",
+      "text": "に",
+      "meaning": "ni",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-knnh9o",
+      "text": "ぬ",
+      "meaning": "nu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-euftr5",
+      "text": "ね",
+      "meaning": "ne",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-6ir27n",
+      "text": "の",
+      "meaning": "no",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-4kvpo5",
+      "text": "は",
+      "meaning": "ha",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-mm03m6",
+      "text": "ひ",
+      "meaning": "hi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-za1krj",
+      "text": "ふ",
+      "meaning": "fu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-jeme5p",
+      "text": "へ",
+      "meaning": "he",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-sb9t1l",
+      "text": "ほ",
+      "meaning": "ho",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-y8jpc0",
+      "text": "ま",
+      "meaning": "ma",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-6scedn",
+      "text": "み",
+      "meaning": "mi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-ehrz4y",
+      "text": "む",
+      "meaning": "mu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-k2yog0",
+      "text": "め",
+      "meaning": "me",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wx-lj7mvz",
+      "text": "も",
+      "meaning": "mo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.105Z"
+    },
+    {
+      "id": "mrmzr2wy-ie6jtn",
+      "text": "や",
+      "meaning": "ya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-4om0tj",
+      "text": "ゆ",
+      "meaning": "yu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-chpj9e",
+      "text": "よ",
+      "meaning": "yo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-rb2kxx",
+      "text": "ら",
+      "meaning": "ra",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-tr4a06",
+      "text": "り",
+      "meaning": "ri",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-fwq253",
+      "text": "る",
+      "meaning": "ru",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ut9slv",
+      "text": "れ",
+      "meaning": "re",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-jd5zw3",
+      "text": "ろ",
+      "meaning": "ro",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-20pq0h",
+      "text": "わ",
+      "meaning": "wa",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-56tx65",
+      "text": "を",
+      "meaning": "wo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-two7g8",
+      "text": "ん",
+      "meaning": "n",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-6dsx0b",
+      "text": "が",
+      "meaning": "ga",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-t4gvnn",
+      "text": "ぎ",
+      "meaning": "gi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-z94921",
+      "text": "ぐ",
+      "meaning": "gu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-cr042m",
+      "text": "げ",
+      "meaning": "ge",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-wqeufb",
+      "text": "ご",
+      "meaning": "go",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-n5572r",
+      "text": "ざ",
+      "meaning": "za",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-nobvrc",
+      "text": "じ",
+      "meaning": "ji",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-2svygh",
+      "text": "ず",
+      "meaning": "zu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-zweazi",
+      "text": "ぜ",
+      "meaning": "ze",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-kkf2yl",
+      "text": "ぞ",
+      "meaning": "zo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ihuc9o",
+      "text": "だ",
+      "meaning": "da",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-lc807p",
+      "text": "ぢ",
+      "meaning": "ji",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-rzmxxt",
+      "text": "づ",
+      "meaning": "zu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-oj12ng",
+      "text": "で",
+      "meaning": "de",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-bgy81i",
+      "text": "ど",
+      "meaning": "do",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-bab6gc",
+      "text": "ば",
+      "meaning": "ba",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-fch1us",
+      "text": "び",
+      "meaning": "bi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-zmyjk9",
+      "text": "ぶ",
+      "meaning": "bu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-f80g6w",
+      "text": "べ",
+      "meaning": "be",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-sbsad4",
+      "text": "ぼ",
+      "meaning": "bo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-g0gite",
+      "text": "ぱ",
+      "meaning": "pa",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-nzlscv",
+      "text": "ぴ",
+      "meaning": "pi",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-pqvpy3",
+      "text": "ぷ",
+      "meaning": "pu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ltr3n4",
+      "text": "ぺ",
+      "meaning": "pe",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-j5qdbv",
+      "text": "ぽ",
+      "meaning": "po",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ibnsbd",
+      "text": "きゃ",
+      "meaning": "kya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-3db8ar",
+      "text": "きゅ",
+      "meaning": "kyu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-i6vs8m",
+      "text": "きょ",
+      "meaning": "kyo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-mhgb5l",
+      "text": "しゃ",
+      "meaning": "sha",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-9brpix",
+      "text": "しゅ",
+      "meaning": "shu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-astgeq",
+      "text": "しょ",
+      "meaning": "sho",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-n4z2g5",
+      "text": "ちゃ",
+      "meaning": "cha",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ifap2u",
+      "text": "ちゅ",
+      "meaning": "chu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-x7t7xr",
+      "text": "ちょ",
+      "meaning": "cho",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-xhkkiq",
+      "text": "にゃ",
+      "meaning": "nya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-4tx87b",
+      "text": "にゅ",
+      "meaning": "nyu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-gtu92d",
+      "text": "にょ",
+      "meaning": "nyo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-d6rzsw",
+      "text": "ひゃ",
+      "meaning": "hya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-bbkdf6",
+      "text": "ひゅ",
+      "meaning": "hyu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-drkla2",
+      "text": "ひょ",
+      "meaning": "hyo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-i0ls8t",
+      "text": "みゃ",
+      "meaning": "mya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ziduvl",
+      "text": "みゅ",
+      "meaning": "myu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-gninqs",
+      "text": "みょ",
+      "meaning": "myo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-j4oshq",
+      "text": "りゃ",
+      "meaning": "rya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-s38sfn",
+      "text": "りゅ",
+      "meaning": "ryu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-8zltf9",
+      "text": "りょ",
+      "meaning": "ryo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-t3wy76",
+      "text": "ぎゃ",
+      "meaning": "gya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-ud2f7m",
+      "text": "ぎゅ",
+      "meaning": "gyu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-r3gllp",
+      "text": "ぎょ",
+      "meaning": "gyo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-qbq5us",
+      "text": "じゃ",
+      "meaning": "ja",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-occ0xe",
+      "text": "じゅ",
+      "meaning": "ju",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-a560g0",
+      "text": "じょ",
+      "meaning": "jo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-2w1jkp",
+      "text": "びゃ",
+      "meaning": "bya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-qvrg5z",
+      "text": "びゅ",
+      "meaning": "byu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-oe0elq",
+      "text": "びょ",
+      "meaning": "byo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-9eeqxw",
+      "text": "ぴゃ",
+      "meaning": "pya",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-x90mkw",
+      "text": "ぴゅ",
+      "meaning": "pyu",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzr2wy-744t45",
+      "text": "ぴょ",
+      "meaning": "pyo",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:10:39.106Z"
+    },
+    {
+      "id": "mrmzvghk-ba1dxj",
+      "text": "こんにちは",
+      "meaning": "hello",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-3vg4u4",
+      "text": "ありがとう",
+      "meaning": "thank you",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-85drii",
+      "text": "はい",
+      "meaning": "yes",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-dn0h6n",
+      "text": "いいえ",
+      "meaning": "no",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-4um58p",
+      "text": "お願いします",
+      "meaning": "please",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-ti2kna",
+      "text": "すみません",
+      "meaning": "excuse me",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-3wramv",
+      "text": "ごめんなさい",
+      "meaning": "sorry",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-5ox6ps",
+      "text": "さようなら",
+      "meaning": "goodbye",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-9miqm2",
+      "text": "おはよう",
+      "meaning": "good morning",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-y5ftqe",
+      "text": "こんばんは",
+      "meaning": "good evening",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-iytuzq",
+      "text": "おやすみ",
+      "meaning": "good night",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-uymu8y",
+      "text": "私",
+      "meaning": "I",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-v17yyn",
+      "text": "あなた",
+      "meaning": "you",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-nheank",
+      "text": "彼",
+      "meaning": "he",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-0ph8se",
+      "text": "彼女",
+      "meaning": "she",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-b7jnpl",
+      "text": "人",
+      "meaning": "person",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-on6wh9",
+      "text": "友達",
+      "meaning": "friend",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-5uk2g1",
+      "text": "家族",
+      "meaning": "family",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-9n5vwn",
+      "text": "父",
+      "meaning": "father",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-4l2v2w",
+      "text": "母",
+      "meaning": "mother",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-f52gtu",
+      "text": "兄",
+      "meaning": "older brother",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-q5gh8r",
+      "text": "姉",
+      "meaning": "older sister",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-g33gyb",
+      "text": "弟",
+      "meaning": "younger brother",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-97k866",
+      "text": "妹",
+      "meaning": "younger sister",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-lz5ftq",
+      "text": "子ども",
+      "meaning": "child",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-lx6y9f",
+      "text": "先生",
+      "meaning": "teacher",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-ve88d2",
+      "text": "学生",
+      "meaning": "student",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-jnmg8w",
+      "text": "学校",
+      "meaning": "school",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghk-vtp6gi",
+      "text": "本",
+      "meaning": "book",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.320Z"
+    },
+    {
+      "id": "mrmzvghl-e0p3hp",
+      "text": "ノート",
+      "meaning": "notebook",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-u2jghu",
+      "text": "鉛筆",
+      "meaning": "pencil",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-zqj33b",
+      "text": "ペン",
+      "meaning": "pen",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-3u9tx6",
+      "text": "机",
+      "meaning": "desk",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-nbc2rw",
+      "text": "椅子",
+      "meaning": "chair",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-jjd8j5",
+      "text": "部屋",
+      "meaning": "room",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-uozv71",
+      "text": "家",
+      "meaning": "house",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-rj7vra",
+      "text": "ドア",
+      "meaning": "door",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-u6mk9v",
+      "text": "窓",
+      "meaning": "window",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-b88bbn",
+      "text": "鍵",
+      "meaning": "key",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-if95af",
+      "text": "車",
+      "meaning": "car",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-gqyh43",
+      "text": "電車",
+      "meaning": "train",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-c6s545",
+      "text": "駅",
+      "meaning": "station",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-omeq5g",
+      "text": "バス",
+      "meaning": "bus",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-7inbfp",
+      "text": "自転車",
+      "meaning": "bicycle",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-izzwf2",
+      "text": "飛行機",
+      "meaning": "airplane",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-oy9icc",
+      "text": "道",
+      "meaning": "road",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-airo78",
+      "text": "店",
+      "meaning": "shop",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-fkweuh",
+      "text": "病院",
+      "meaning": "hospital",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-blvu2l",
+      "text": "医者",
+      "meaning": "doctor",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-4gvg7f",
+      "text": "薬",
+      "meaning": "medicine",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-clmf65",
+      "text": "水",
+      "meaning": "water",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-l8qbb3",
+      "text": "お茶",
+      "meaning": "tea",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-difmuz",
+      "text": "コーヒー",
+      "meaning": "coffee",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-ctwhwu",
+      "text": "牛乳",
+      "meaning": "milk",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-vdldxr",
+      "text": "パン",
+      "meaning": "bread",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-6j1foi",
+      "text": "ご飯",
+      "meaning": "rice",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-4zmnu2",
+      "text": "魚",
+      "meaning": "fish",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-eb7ro2",
+      "text": "肉",
+      "meaning": "meat",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-ywu9wx",
+      "text": "卵",
+      "meaning": "egg",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-vilou2",
+      "text": "野菜",
+      "meaning": "vegetables",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-jld56a",
+      "text": "果物",
+      "meaning": "fruit",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-n9b6wz",
+      "text": "りんご",
+      "meaning": "apple",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-5ct7u2",
+      "text": "みかん",
+      "meaning": "orange",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-mbsljw",
+      "text": "バナナ",
+      "meaning": "banana",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-v9ayv1",
+      "text": "犬",
+      "meaning": "dog",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-d10t0i",
+      "text": "猫",
+      "meaning": "cat",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-ve17ol",
+      "text": "鳥",
+      "meaning": "bird",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.321Z"
+    },
+    {
+      "id": "mrmzvghl-kikt8n",
+      "text": "魚",
+      "meaning": "fish",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-xhh0n9",
+      "text": "花",
+      "meaning": "flower",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-rwiyhf",
+      "text": "木",
+      "meaning": "tree",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-70g1tp",
+      "text": "山",
+      "meaning": "mountain",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-w3prf5",
+      "text": "川",
+      "meaning": "river",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-11b9ki",
+      "text": "海",
+      "meaning": "sea",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-prhw16",
+      "text": "空",
+      "meaning": "sky",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-q0mpwj",
+      "text": "太陽",
+      "meaning": "sun",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-9viobo",
+      "text": "月",
+      "meaning": "moon",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-x2ll98",
+      "text": "星",
+      "meaning": "star",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-v914ve",
+      "text": "雨",
+      "meaning": "rain",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-k184yn",
+      "text": "雪",
+      "meaning": "snow",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-wlc1um",
+      "text": "風",
+      "meaning": "wind",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-xqkv3p",
+      "text": "火",
+      "meaning": "fire",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-t1cnl8",
+      "text": "今日",
+      "meaning": "today",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-9sisxr",
+      "text": "昨日",
+      "meaning": "yesterday",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-eicta2",
+      "text": "明日",
+      "meaning": "tomorrow",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-9bu4bl",
+      "text": "朝",
+      "meaning": "morning",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-rph256",
+      "text": "昼",
+      "meaning": "afternoon",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-nq4o9d",
+      "text": "夜",
+      "meaning": "night",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-b89ce1",
+      "text": "時間",
+      "meaning": "time",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-om7b46",
+      "text": "分",
+      "meaning": "minute",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-k6nmqw",
+      "text": "年",
+      "meaning": "year",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-g52puz",
+      "text": "名前",
+      "meaning": "name",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-71sr4h",
+      "text": "お金",
+      "meaning": "money",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-rxds6f",
+      "text": "仕事",
+      "meaning": "work",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-39zjq3",
+      "text": "会社",
+      "meaning": "company",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-qc6xgs",
+      "text": "電話",
+      "meaning": "telephone",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-88ub6n",
+      "text": "携帯電話",
+      "meaning": "mobile phone",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-m74f2q",
+      "text": "音楽",
+      "meaning": "music",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-cj5p85",
+      "text": "映画",
+      "meaning": "movie",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-2ihqhq",
+      "text": "新聞",
+      "meaning": "newspaper",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-r4poom",
+      "text": "質問",
+      "meaning": "question",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-is1aid",
+      "text": "答え",
+      "meaning": "answer",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-2wqa82",
+      "text": "食べる",
+      "meaning": "to eat",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-tixsoh",
+      "text": "飲む",
+      "meaning": "to drink",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-p9x6dy",
+      "text": "行く",
+      "meaning": "to go",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghm-2sql6r",
+      "text": "来る",
+      "meaning": "to come",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.322Z"
+    },
+    {
+      "id": "mrmzvghn-g789xs",
+      "text": "帰る",
+      "meaning": "to return",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-236l17",
+      "text": "見る",
+      "meaning": "to see",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-1jw7ft",
+      "text": "聞く",
+      "meaning": "to hear",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-f1tixi",
+      "text": "話す",
+      "meaning": "to speak",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-x1m87f",
+      "text": "読む",
+      "meaning": "to read",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-wkj1sd",
+      "text": "書く",
+      "meaning": "to write",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-v4bjdm",
+      "text": "買う",
+      "meaning": "to buy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-lbgyuz",
+      "text": "売る",
+      "meaning": "to sell",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-qcg0rn",
+      "text": "使う",
+      "meaning": "to use",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-sd55m3",
+      "text": "作る",
+      "meaning": "to make",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-bct918",
+      "text": "知る",
+      "meaning": "to know",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-i4xbek",
+      "text": "分かる",
+      "meaning": "to understand",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-d5fnsk",
+      "text": "覚える",
+      "meaning": "to remember",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-zwdgbi",
+      "text": "忘れる",
+      "meaning": "to forget",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-58k6bk",
+      "text": "始める",
+      "meaning": "to begin",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-t0mr6a",
+      "text": "終わる",
+      "meaning": "to finish",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-2nudwy",
+      "text": "開ける",
+      "meaning": "to open",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-w75p1s",
+      "text": "閉める",
+      "meaning": "to close",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-6rzz4q",
+      "text": "立つ",
+      "meaning": "to stand",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-n6l06t",
+      "text": "座る",
+      "meaning": "to sit",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-afoh3z",
+      "text": "歩く",
+      "meaning": "to walk",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-mvlcv8",
+      "text": "走る",
+      "meaning": "to run",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-tvq1pn",
+      "text": "寝る",
+      "meaning": "to sleep",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-ru6gtw",
+      "text": "起きる",
+      "meaning": "to wake up",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-9taavk",
+      "text": "働く",
+      "meaning": "to work",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-c57bfx",
+      "text": "勉強する",
+      "meaning": "to study",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-rndqiv",
+      "text": "遊ぶ",
+      "meaning": "to play",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-to7jim",
+      "text": "待つ",
+      "meaning": "to wait",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-7poxx7",
+      "text": "手伝う",
+      "meaning": "to help",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-3auw32",
+      "text": "洗う",
+      "meaning": "to wash",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-ovnd6l",
+      "text": "料理する",
+      "meaning": "to cook",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-bc17l8",
+      "text": "歌う",
+      "meaning": "to sing",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-c1cpav",
+      "text": "泳ぐ",
+      "meaning": "to swim",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-mi6wq5",
+      "text": "旅行する",
+      "meaning": "to travel",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-xruumg",
+      "text": "住む",
+      "meaning": "to live",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-mbz1cr",
+      "text": "会う",
+      "meaning": "to meet",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-kroha6",
+      "text": "大きい",
+      "meaning": "big",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-ymhnfi",
+      "text": "小さい",
+      "meaning": "small",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-5r1rw4",
+      "text": "新しい",
+      "meaning": "new",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-6o9hzp",
+      "text": "古い",
+      "meaning": "old",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvghn-uvi7vm",
+      "text": "高い",
+      "meaning": "expensive",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.323Z"
+    },
+    {
+      "id": "mrmzvgho-5w7qhv",
+      "text": "安い",
+      "meaning": "cheap",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-v3hv3y",
+      "text": "暑い",
+      "meaning": "hot",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-oy5i9g",
+      "text": "寒い",
+      "meaning": "cold",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-zx5j15",
+      "text": "暖かい",
+      "meaning": "warm",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-4v5d27",
+      "text": "涼しい",
+      "meaning": "cool",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-vfnz1i",
+      "text": "長い",
+      "meaning": "long",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-bsccbq",
+      "text": "短い",
+      "meaning": "short",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-4vb3eq",
+      "text": "多い",
+      "meaning": "many",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-edbwbs",
+      "text": "少ない",
+      "meaning": "few",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-i0s6w2",
+      "text": "早い",
+      "meaning": "early",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-dm4ns4",
+      "text": "遅い",
+      "meaning": "late",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-gauc4z",
+      "text": "速い",
+      "meaning": "fast",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-fvy35o",
+      "text": "遅い",
+      "meaning": "slow",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-r5rcg3",
+      "text": "良い",
+      "meaning": "good",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-m356e7",
+      "text": "悪い",
+      "meaning": "bad",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-q7psty",
+      "text": "白い",
+      "meaning": "white",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-k0qxfg",
+      "text": "黒い",
+      "meaning": "black",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-7u4k9i",
+      "text": "赤い",
+      "meaning": "red",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-cjpz21",
+      "text": "青い",
+      "meaning": "blue",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-q21evl",
+      "text": "黄色い",
+      "meaning": "yellow",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-ssrkdh",
+      "text": "緑",
+      "meaning": "green",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-1j0asx",
+      "text": "忙しい",
+      "meaning": "busy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-z6dyk8",
+      "text": "暇",
+      "meaning": "free",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-57xwv1",
+      "text": "楽しい",
+      "meaning": "fun",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-36mzwc",
+      "text": "難しい",
+      "meaning": "difficult",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-i7duty",
+      "text": "簡単",
+      "meaning": "easy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-4hegkx",
+      "text": "美しい",
+      "meaning": "beautiful",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-s7eza2",
+      "text": "かわいい",
+      "meaning": "cute",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-ju7771",
+      "text": "元気",
+      "meaning": "healthy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-4w0ntb",
+      "text": "親切",
+      "meaning": "kind",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-xg3fbv",
+      "text": "静か",
+      "meaning": "quiet",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-7xhtup",
+      "text": "有名",
+      "meaning": "famous",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-n7k4vq",
+      "text": "便利",
+      "meaning": "convenient",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-obiglu",
+      "text": "大丈夫",
+      "meaning": "okay",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-8g8zyq",
+      "text": "必要",
+      "meaning": "necessary",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-7nhotp",
+      "text": "全部",
+      "meaning": "all",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-hl59si",
+      "text": "毎日",
+      "meaning": "every day",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-scyb23",
+      "text": "毎週",
+      "meaning": "every week",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-wzope3",
+      "text": "毎月",
+      "meaning": "every month",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-zkusof",
+      "text": "毎年",
+      "meaning": "every year",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-nes3s7",
+      "text": "今",
+      "meaning": "now",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvgho-ny6qon",
+      "text": "後で",
+      "meaning": "later",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.324Z"
+    },
+    {
+      "id": "mrmzvghp-s303gp",
+      "text": "前",
+      "meaning": "before",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-f5znxe",
+      "text": "後ろ",
+      "meaning": "behind",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-hhmw00",
+      "text": "上",
+      "meaning": "above",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-ihgfeo",
+      "text": "下",
+      "meaning": "below",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-vs3flc",
+      "text": "中",
+      "meaning": "inside",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-84o9qt",
+      "text": "外",
+      "meaning": "outside",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-fjij2s",
+      "text": "右",
+      "meaning": "right",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-xrv9ss",
+      "text": "左",
+      "meaning": "left",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-5f0hz7",
+      "text": "近く",
+      "meaning": "near",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-qwrdjq",
+      "text": "遠く",
+      "meaning": "far",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-cq3zs9",
+      "text": "いつ",
+      "meaning": "when",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-lx4f3b",
+      "text": "どこ",
+      "meaning": "where",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-bax7ec",
+      "text": "なぜ",
+      "meaning": "why",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-h6ewk2",
+      "text": "どうして",
+      "meaning": "why",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-3ncflq",
+      "text": "どう",
+      "meaning": "how",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzvghp-29rn70",
+      "text": "いくら",
+      "meaning": "how much",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:03.325Z"
+    },
+    {
+      "id": "mrmzweth-mm2cl1",
+      "text": "誰",
+      "meaning": "who",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.813Z"
+    },
+    {
+      "id": "mrmzweti-wvsbue",
+      "text": "何",
+      "meaning": "what",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-z0eb1n",
+      "text": "どれ",
+      "meaning": "which",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-ie5b01",
+      "text": "どちら",
+      "meaning": "which way",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-9pqooh",
+      "text": "こちら",
+      "meaning": "this way",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-rc4abc",
+      "text": "そちら",
+      "meaning": "that way",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-n3b280",
+      "text": "あちら",
+      "meaning": "over there",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-hkno3f",
+      "text": "ここ",
+      "meaning": "here",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-inxo1n",
+      "text": "そこ",
+      "meaning": "there",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-1dlppd",
+      "text": "あそこ",
+      "meaning": "over there",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-cipoox",
+      "text": "毎朝",
+      "meaning": "every morning",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-e5m1xr",
+      "text": "毎晩",
+      "meaning": "every night",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-829f8d",
+      "text": "週末",
+      "meaning": "weekend",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-9c7yyq",
+      "text": "平日",
+      "meaning": "weekday",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-hsqwwj",
+      "text": "春",
+      "meaning": "spring",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-j3cu9s",
+      "text": "夏",
+      "meaning": "summer",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-dr7jdo",
+      "text": "秋",
+      "meaning": "autumn",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-ub5r6e",
+      "text": "冬",
+      "meaning": "winter",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-wfysb7",
+      "text": "一月",
+      "meaning": "January",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-vhmr84",
+      "text": "二月",
+      "meaning": "February",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-zh4k7k",
+      "text": "三月",
+      "meaning": "March",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-wtzt0i",
+      "text": "四月",
+      "meaning": "April",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-87hr0p",
+      "text": "五月",
+      "meaning": "May",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-o16rwi",
+      "text": "六月",
+      "meaning": "June",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-8aq1ta",
+      "text": "七月",
+      "meaning": "July",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-ziztup",
+      "text": "八月",
+      "meaning": "August",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-vzfyvc",
+      "text": "九月",
+      "meaning": "September",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-y30fjq",
+      "text": "十月",
+      "meaning": "October",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-pp2h4e",
+      "text": "十一月",
+      "meaning": "November",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-hq2y5b",
+      "text": "十二月",
+      "meaning": "December",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-j77v0x",
+      "text": "一日",
+      "meaning": "one day",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-88xv30",
+      "text": "二日",
+      "meaning": "two days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-lsxbjv",
+      "text": "三日",
+      "meaning": "three days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-8f0owj",
+      "text": "四日",
+      "meaning": "four days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-gq9voj",
+      "text": "五日",
+      "meaning": "five days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-yu9cfd",
+      "text": "六日",
+      "meaning": "six days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-b5fmf9",
+      "text": "七日",
+      "meaning": "seven days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-7ci9d5",
+      "text": "八日",
+      "meaning": "eight days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-bsj98r",
+      "text": "九日",
+      "meaning": "nine days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-09f2hw",
+      "text": "十日",
+      "meaning": "ten days",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-nmb8y2",
+      "text": "百",
+      "meaning": "hundred",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-n2baw7",
+      "text": "千",
+      "meaning": "thousand",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzweti-xk95xz",
+      "text": "万",
+      "meaning": "ten thousand",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.814Z"
+    },
+    {
+      "id": "mrmzwetj-qau3jx",
+      "text": "色",
+      "meaning": "color",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-adyy52",
+      "text": "声",
+      "meaning": "voice",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-5nb04r",
+      "text": "音",
+      "meaning": "sound",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-iuls1i",
+      "text": "写真",
+      "meaning": "photograph",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-mll8se",
+      "text": "手紙",
+      "meaning": "letter",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-klpzpa",
+      "text": "地図",
+      "meaning": "map",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-e97wks",
+      "text": "時計",
+      "meaning": "clock",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-jdua0u",
+      "text": "眼鏡",
+      "meaning": "glasses",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-ex6g5x",
+      "text": "帽子",
+      "meaning": "hat",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-nop62i",
+      "text": "靴",
+      "meaning": "shoes",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-r58kye",
+      "text": "服",
+      "meaning": "clothes",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-jsowvd",
+      "text": "シャツ",
+      "meaning": "shirt",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-npta9i",
+      "text": "ズボン",
+      "meaning": "pants",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-tg3spx",
+      "text": "スカート",
+      "meaning": "skirt",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-i9fyqd",
+      "text": "コート",
+      "meaning": "coat",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-qq1e10",
+      "text": "傘",
+      "meaning": "umbrella",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-riy7sx",
+      "text": "かばん",
+      "meaning": "bag",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-en2s5x",
+      "text": "財布",
+      "meaning": "wallet",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-41e82k",
+      "text": "切符",
+      "meaning": "ticket",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-qr75h8",
+      "text": "住所",
+      "meaning": "address",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-qzpo5m",
+      "text": "国",
+      "meaning": "country",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-sunrza",
+      "text": "町",
+      "meaning": "town",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-rpv8r6",
+      "text": "村",
+      "meaning": "village",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-b9sxel",
+      "text": "世界",
+      "meaning": "world",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-fnjak3",
+      "text": "公園",
+      "meaning": "park",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-8g0bt2",
+      "text": "図書館",
+      "meaning": "library",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-cibdq2",
+      "text": "銀行",
+      "meaning": "bank",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-b5c5ut",
+      "text": "郵便局",
+      "meaning": "post office",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-yq80hi",
+      "text": "空港",
+      "meaning": "airport",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-8nlst0",
+      "text": "市場",
+      "meaning": "market",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-uaiiiv",
+      "text": "工場",
+      "meaning": "factory",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-uhe8cc",
+      "text": "台所",
+      "meaning": "kitchen",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-eum3d6",
+      "text": "風呂",
+      "meaning": "bath",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-841rqe",
+      "text": "寝室",
+      "meaning": "bedroom",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-hkzf94",
+      "text": "居間",
+      "meaning": "living room",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-r7ho99",
+      "text": "天井",
+      "meaning": "ceiling",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-pi5pt8",
+      "text": "壁",
+      "meaning": "wall",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-he81gm",
+      "text": "床",
+      "meaning": "floor",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-ijf7fp",
+      "text": "鏡",
+      "meaning": "mirror",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-ldi0ad",
+      "text": "冷蔵庫",
+      "meaning": "refrigerator",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-otcxje",
+      "text": "電子レンジ",
+      "meaning": "microwave",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-n09zmq",
+      "text": "テレビ",
+      "meaning": "television",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-o9azzm",
+      "text": "ラジオ",
+      "meaning": "radio",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-lme7if",
+      "text": "新聞紙",
+      "meaning": "newspaper",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-8pydsy",
+      "text": "雑誌",
+      "meaning": "magazine",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetj-nbl7uq",
+      "text": "辞書",
+      "meaning": "dictionary",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.815Z"
+    },
+    {
+      "id": "mrmzwetk-4nlqfq",
+      "text": "言葉",
+      "meaning": "word",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-bbej75",
+      "text": "文",
+      "meaning": "sentence",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-npabr5",
+      "text": "意味",
+      "meaning": "meaning",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-kxdzsf",
+      "text": "文法",
+      "meaning": "grammar",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-6fa0ez",
+      "text": "発音",
+      "meaning": "pronunciation",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-3qfmlw",
+      "text": "練習",
+      "meaning": "practice",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-7oi37d",
+      "text": "試験",
+      "meaning": "exam",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-y3igms",
+      "text": "宿題",
+      "meaning": "homework",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-1q7hzs",
+      "text": "授業",
+      "meaning": "class",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-pjx4y1",
+      "text": "教室",
+      "meaning": "classroom",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-v7mj7y",
+      "text": "教科書",
+      "meaning": "textbook",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-ri7l58",
+      "text": "黒板",
+      "meaning": "blackboard",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-2tjlow",
+      "text": "消しゴム",
+      "meaning": "eraser",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-87v32j",
+      "text": "定規",
+      "meaning": "ruler",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-66nh9e",
+      "text": "はさみ",
+      "meaning": "scissors",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-fuoywd",
+      "text": "紙",
+      "meaning": "paper",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-yrouyr",
+      "text": "封筒",
+      "meaning": "envelope",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-hi7v6v",
+      "text": "切手",
+      "meaning": "stamp",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-7ac1eb",
+      "text": "机の上",
+      "meaning": "on the desk",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-7qz1vt",
+      "text": "番号",
+      "meaning": "number",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-tmh8ft",
+      "text": "文字",
+      "meaning": "letter",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-jwthnq",
+      "text": "漢字",
+      "meaning": "kanji",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-qspipp",
+      "text": "ひらがな",
+      "meaning": "hiragana",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-fb0nhp",
+      "text": "カタカナ",
+      "meaning": "katakana",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-78p8kd",
+      "text": "言語",
+      "meaning": "language",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-zlhsu7",
+      "text": "英語",
+      "meaning": "English",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-twmhbl",
+      "text": "日本語",
+      "meaning": "Japanese",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-vs5wwa",
+      "text": "先生方",
+      "meaning": "teachers",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-z1vrri",
+      "text": "生徒",
+      "meaning": "pupil",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-2zr4wp",
+      "text": "友人",
+      "meaning": "friend",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-094vqy",
+      "text": "試合",
+      "meaning": "match",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-rhucx8",
+      "text": "運動",
+      "meaning": "exercise",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-dwx5s8",
+      "text": "散歩",
+      "meaning": "walk",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-fyl1kh",
+      "text": "趣味",
+      "meaning": "hobby",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-o846wg",
+      "text": "旅行",
+      "meaning": "trip",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-lb7rqe",
+      "text": "休み",
+      "meaning": "holiday",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-1osmu9",
+      "text": "予定",
+      "meaning": "plan",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-66ager",
+      "text": "約束",
+      "meaning": "promise",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-cp3q3x",
+      "text": "経験",
+      "meaning": "experience",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-k3gndp",
+      "text": "理由",
+      "meaning": "reason",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetk-oha4an",
+      "text": "考え",
+      "meaning": "idea",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.816Z"
+    },
+    {
+      "id": "mrmzwetl-csh8y5",
+      "text": "気持ち",
+      "meaning": "feeling",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-47b331",
+      "text": "気分",
+      "meaning": "mood",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-k9a474",
+      "text": "愛",
+      "meaning": "love",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-bddrdq",
+      "text": "平和",
+      "meaning": "peace",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-9dwa0j",
+      "text": "幸せ",
+      "meaning": "happiness",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-gt7jy3",
+      "text": "笑顔",
+      "meaning": "smile",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-yz8xfb",
+      "text": "涙",
+      "meaning": "tear",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-kqj1fl",
+      "text": "夢",
+      "meaning": "dream",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-hhznal",
+      "text": "希望",
+      "meaning": "hope",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-gcj4ri",
+      "text": "勇気",
+      "meaning": "courage",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-zsqk5a",
+      "text": "心",
+      "meaning": "heart",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-n8xhkv",
+      "text": "頭",
+      "meaning": "head",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-d9jnp6",
+      "text": "顔",
+      "meaning": "face",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-srurku",
+      "text": "目",
+      "meaning": "eye",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-nis5t6",
+      "text": "耳",
+      "meaning": "ear",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-wzy57x",
+      "text": "鼻",
+      "meaning": "nose",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-oq5lgo",
+      "text": "口",
+      "meaning": "mouth",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-j7x2ti",
+      "text": "歯",
+      "meaning": "tooth",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-lbg35c",
+      "text": "首",
+      "meaning": "neck",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-un9xva",
+      "text": "肩",
+      "meaning": "shoulder",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-mf1pyi",
+      "text": "腕",
+      "meaning": "arm",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-7nc64s",
+      "text": "手",
+      "meaning": "hand",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-fz6k4p",
+      "text": "指",
+      "meaning": "finger",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-n4vgwi",
+      "text": "足",
+      "meaning": "foot",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-sg3o19",
+      "text": "脚",
+      "meaning": "leg",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-vrzpqv",
+      "text": "背中",
+      "meaning": "back",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-ibidal",
+      "text": "胸",
+      "meaning": "chest",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-ji2z2n",
+      "text": "お腹",
+      "meaning": "stomach",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-bofmw0",
+      "text": "髪",
+      "meaning": "hair",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-t9wvxa",
+      "text": "肌",
+      "meaning": "skin",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-bcnfp2",
+      "text": "血",
+      "meaning": "blood",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-mem5h7",
+      "text": "病気",
+      "meaning": "illness",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-y1ox5i",
+      "text": "熱",
+      "meaning": "fever",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetl-clrcw1",
+      "text": "風邪",
+      "meaning": "cold",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.817Z"
+    },
+    {
+      "id": "mrmzwetm-x56h7p",
+      "text": "咳",
+      "meaning": "cough",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-nnb578",
+      "text": "痛み",
+      "meaning": "pain",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-q29vwl",
+      "text": "救急車",
+      "meaning": "ambulance",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-lm3l2q",
+      "text": "看護師",
+      "meaning": "nurse",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-xrmeis",
+      "text": "薬局",
+      "meaning": "pharmacy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-l8bzhv",
+      "text": "健康",
+      "meaning": "health",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-xb5j6o",
+      "text": "朝ご飯",
+      "meaning": "breakfast",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-b8k7k2",
+      "text": "昼ご飯",
+      "meaning": "lunch",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-9qcle1",
+      "text": "晩ご飯",
+      "meaning": "dinner",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-y450ec",
+      "text": "朝食",
+      "meaning": "breakfast",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-bxoxet",
+      "text": "夕食",
+      "meaning": "dinner",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-2hjekg",
+      "text": "飲み物",
+      "meaning": "drink",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-8cg02e",
+      "text": "食べ物",
+      "meaning": "food",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-1jn15h",
+      "text": "塩",
+      "meaning": "salt",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-uuvom2",
+      "text": "砂糖",
+      "meaning": "sugar",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-jhl0z2",
+      "text": "バター",
+      "meaning": "butter",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-wd08a2",
+      "text": "チーズ",
+      "meaning": "cheese",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-9mx3ah",
+      "text": "スープ",
+      "meaning": "soup",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-ky0jlv",
+      "text": "サラダ",
+      "meaning": "salad",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-f43fc1",
+      "text": "ケーキ",
+      "meaning": "cake",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-bchb6m",
+      "text": "アイスクリーム",
+      "meaning": "ice cream",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-o25zgt",
+      "text": "お菓子",
+      "meaning": "sweets",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-1ge0il",
+      "text": "野球",
+      "meaning": "baseball",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-2ueltg",
+      "text": "サッカー",
+      "meaning": "soccer",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-5b7rbr",
+      "text": "テニス",
+      "meaning": "tennis",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-cn54ju",
+      "text": "水泳",
+      "meaning": "swimming",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-2ujrbn",
+      "text": "音",
+      "meaning": "sound",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-2lf2ib",
+      "text": "歌",
+      "meaning": "song",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-ovqe0a",
+      "text": "絵",
+      "meaning": "picture",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-4l9rh9",
+      "text": "美術",
+      "meaning": "art",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-8udumo",
+      "text": "文化",
+      "meaning": "culture",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-xhrgu2",
+      "text": "祭り",
+      "meaning": "festival",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-2f3rw7",
+      "text": "天気",
+      "meaning": "weather",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-gigagd",
+      "text": "晴れ",
+      "meaning": "sunny",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    },
+    {
+      "id": "mrmzwetm-dlwvpv",
+      "text": "曇り",
+      "meaning": "cloudy",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:14:47.818Z"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "mrn005yn-2h8gf0",
+      "text": "私 は 学生 です。",
+      "meaning": "I am a student.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-2nvffw",
+      "text": "私 は 日本人 です。",
+      "meaning": "I am Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-mddzkz",
+      "text": "あなた は 先生 です。",
+      "meaning": "You are a teacher.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-tcxuwo",
+      "text": "私 の 名前 は たろう です。",
+      "meaning": "My name is Taro.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-q4543n",
+      "text": "これ は 本 です。",
+      "meaning": "This is a book.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-g1sn3t",
+      "text": "あれ は 車 です。",
+      "meaning": "That is a car.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-7o4mtr",
+      "text": "ここ は 学校 です。",
+      "meaning": "This is a school.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-8sch0y",
+      "text": "私 は 毎日 勉強 します。",
+      "meaning": "I study every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-ysoazf",
+      "text": "日本語 を 勉強 します。",
+      "meaning": "I study Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-i66ila",
+      "text": "英語 を 話し ます。",
+      "meaning": "I speak English.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-koktrd",
+      "text": "水 を 飲み ます。",
+      "meaning": "I drink water.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-absiw1",
+      "text": "パン を 食べ ます。",
+      "meaning": "I eat bread.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-ajes6q",
+      "text": "ご飯 を 食べ ます。",
+      "meaning": "I eat rice.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-himoxi",
+      "text": "猫 が 好き です。",
+      "meaning": "I like cats.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-ai2m9b",
+      "text": "犬 が 好き です。",
+      "meaning": "I like dogs.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-io173i",
+      "text": "私 は 兄 が い ます。",
+      "meaning": "I have an older brother.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-8748s4",
+      "text": "私 は 妹 が い ます。",
+      "meaning": "I have a younger sister.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-dujxb7",
+      "text": "父 は 会社員 です。",
+      "meaning": "My father is an office worker.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-dc5ut8",
+      "text": "母 は 料理 を し ます。",
+      "meaning": "My mother cooks.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-hhiuw5",
+      "text": "家 は 大きい です。",
+      "meaning": "The house is big.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-9wyxz5",
+      "text": "部屋 は きれい です。",
+      "meaning": "The room is clean.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-hjtp45",
+      "text": "今日 は 暑い です。",
+      "meaning": "It is hot today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-l05o0r",
+      "text": "明日 は 寒い です。",
+      "meaning": "It will be cold tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-mxhxqr",
+      "text": "昨日 は 雨 でした。",
+      "meaning": "It rained yesterday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-b56v6o",
+      "text": "空 は 青い です。",
+      "meaning": "The sky is blue.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-sfm886",
+      "text": "花 は きれい です。",
+      "meaning": "The flowers are beautiful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-r1e5gs",
+      "text": "公園 へ 行き ます。",
+      "meaning": "I go to the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-nt8y0u",
+      "text": "学校 へ 行き ます。",
+      "meaning": "I go to school.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-4a44ik",
+      "text": "家 へ 帰り ます。",
+      "meaning": "I go home.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-3yjqvz",
+      "text": "電車 で 行き ます。",
+      "meaning": "I go by train.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-xld9qa",
+      "text": "バス で 行き ます。",
+      "meaning": "I go by bus.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-kmomga",
+      "text": "車 を 運転 し ます。",
+      "meaning": "I drive a car.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-3nt86m",
+      "text": "本 を 読み ます。",
+      "meaning": "I read a book.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-h6h306",
+      "text": "手紙 を 書き ます。",
+      "meaning": "I write a letter.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-4ona5x",
+      "text": "音楽 を 聞き ます。",
+      "meaning": "I listen to music.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-u2lqqg",
+      "text": "テレビ を 見 ます。",
+      "meaning": "I watch television.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-ntyha9",
+      "text": "映画 を 見 ます。",
+      "meaning": "I watch a movie.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-v7mc9d",
+      "text": "毎朝 早く 起き ます。",
+      "meaning": "I wake up early every morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-gmpnwf",
+      "text": "夜 十時 に 寝 ます。",
+      "meaning": "I sleep at ten at night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-6vanrt",
+      "text": "朝ご飯 を 食べ ます。",
+      "meaning": "I eat breakfast.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-igxr4j",
+      "text": "昼ご飯 を 食べ ます。",
+      "meaning": "I eat lunch.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-bfhyaq",
+      "text": "晩ご飯 を 食べ ます。",
+      "meaning": "I eat dinner.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-d13ptd",
+      "text": "コーヒー を 飲み ます。",
+      "meaning": "I drink coffee.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-y027tl",
+      "text": "お茶 を 飲み ます。",
+      "meaning": "I drink tea.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yn-k6ia5p",
+      "text": "牛乳 を 飲み ます。",
+      "meaning": "I drink milk.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.959Z"
+    },
+    {
+      "id": "mrn005yo-gjfbs5",
+      "text": "学校 は 近い です。",
+      "meaning": "The school is near.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-3jghgt",
+      "text": "駅 は 遠い です。",
+      "meaning": "The station is far.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-njfloz",
+      "text": "今日 は 忙しい です。",
+      "meaning": "I am busy today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-dkpebc",
+      "text": "明日 は 暇 です。",
+      "meaning": "I am free tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-9znrtb",
+      "text": "宿題 が あり ます。",
+      "meaning": "I have homework.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-37n0p1",
+      "text": "試験 は 難しい です。",
+      "meaning": "The exam is difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-5j7fax",
+      "text": "この 本 は 面白い です。",
+      "meaning": "This book is interesting.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-nhuaom",
+      "text": "あの 店 は 安い です。",
+      "meaning": "That shop is cheap.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-n003jc",
+      "text": "この 車 は 高い です。",
+      "meaning": "This car is expensive.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-95e5xa",
+      "text": "水 を ください。",
+      "meaning": "Please give me water.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-pjq161",
+      "text": "手伝って ください。",
+      "meaning": "Please help me.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-g3saor",
+      "text": "ゆっくり 話して ください。",
+      "meaning": "Please speak slowly.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-cs5hci",
+      "text": "もう 一度 言って ください。",
+      "meaning": "Please say it again.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-brfbzz",
+      "text": "分かり ません。",
+      "meaning": "I do not understand.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-753u28",
+      "text": "分かり ました。",
+      "meaning": "I understand.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-e32f2n",
+      "text": "大丈夫 です。",
+      "meaning": "It's okay.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-5ufedr",
+      "text": "本当に ありがとう ござい ます。",
+      "meaning": "Thank you very much.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-20j3q2",
+      "text": "どういたしまして。",
+      "meaning": "You're welcome.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-sehk6c",
+      "text": "すみません、遅れ ました。",
+      "meaning": "Sorry, I am late.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-5egoqg",
+      "text": "ごめんなさい。",
+      "meaning": "I am sorry.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-148syk",
+      "text": "はじめまして。",
+      "meaning": "Nice to meet you.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-13dda6",
+      "text": "よろしく お願い し ます。",
+      "meaning": "Please treat me well.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-d9x7ro",
+      "text": "お元気 です か。",
+      "meaning": "How are you?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-atbsp0",
+      "text": "元気 です。",
+      "meaning": "I am fine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-wklttg",
+      "text": "名前 は 何 です か。",
+      "meaning": "What is your name?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-nzz0ee",
+      "text": "あなた は 何歳 です か。",
+      "meaning": "How old are you?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-fwnacx",
+      "text": "私 は 二十歳 です。",
+      "meaning": "I am twenty years old.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-a31jkj",
+      "text": "誕生日 は 五月 です。",
+      "meaning": "My birthday is in May.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-na4f9r",
+      "text": "今 何時 です か。",
+      "meaning": "What time is it now?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-yvugq5",
+      "text": "三時 です。",
+      "meaning": "It is three o'clock.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-d67qrj",
+      "text": "今日 は 月曜日 です。",
+      "meaning": "Today is Monday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-68n27f",
+      "text": "明日 は 火曜日 です。",
+      "meaning": "Tomorrow is Tuesday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-5hrgyf",
+      "text": "日本 が 好き です。",
+      "meaning": "I like Japan.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-vdtovp",
+      "text": "日本語 は 楽しい です。",
+      "meaning": "Japanese is fun.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-dgp2po",
+      "text": "毎日 練習 し ます。",
+      "meaning": "I practice every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-mrwkeg",
+      "text": "私 は 歌い ます。",
+      "meaning": "I sing.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-ct9sos",
+      "text": "友達 と 遊び ます。",
+      "meaning": "I play with my friend.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-5y0zjd",
+      "text": "毎日 歩き ます。",
+      "meaning": "I walk every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-8cvpvu",
+      "text": "泳ぐ こと が 好き です。",
+      "meaning": "I like swimming.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-zegkox",
+      "text": "写真 を 撮り ます。",
+      "meaning": "I take pictures.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-ofk9v6",
+      "text": "買い物 を し ます。",
+      "meaning": "I go shopping.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-cc5u61",
+      "text": "財布 を 持って い ます。",
+      "meaning": "I have a wallet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-64xin0",
+      "text": "お金 が あり ます。",
+      "meaning": "I have money.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-9tgwro",
+      "text": "ドア を 開け ます。",
+      "meaning": "I open the door.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-6x4krx",
+      "text": "窓 を 閉め ます。",
+      "meaning": "I close the window.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-3g0gbz",
+      "text": "電気 を つけ ます。",
+      "meaning": "I turn on the light.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-1bj0c0",
+      "text": "電気 を 消し ます。",
+      "meaning": "I turn off the light.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-mklebv",
+      "text": "今日 は いい 天気 です。",
+      "meaning": "The weather is nice today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-wv1jkn",
+      "text": "雪 が 降って い ます。",
+      "meaning": "It is snowing.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-huawm4",
+      "text": "雨 が 降って い ます。",
+      "meaning": "It is raining.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-0hel5l",
+      "text": "風 が 強い です。",
+      "meaning": "The wind is strong.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-bkdso8",
+      "text": "一緒 に 行き ましょう。",
+      "meaning": "Let's go together.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-cwn5e6",
+      "text": "また 明日。",
+      "meaning": "See you tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-g1gnyo",
+      "text": "おやすみ なさい。",
+      "meaning": "Good night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn005yo-graqj9",
+      "text": "良い 一日 を。",
+      "meaning": "Have a nice day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:42.960Z"
+    },
+    {
+      "id": "mrn00gk6-7ob9fz",
+      "text": "私 は 毎日 水 を 飲み ます。",
+      "meaning": "I drink water every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-11eeiw",
+      "text": "彼 は 学校 へ 行き ます。",
+      "meaning": "He goes to school.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-7rxxj2",
+      "text": "彼女 は 本 を 読み ます。",
+      "meaning": "She reads a book.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-73r7gc",
+      "text": "私たち は 公園 で 遊び ます。",
+      "meaning": "We play in the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-dx5uzs",
+      "text": "今日 は とても 暑い です。",
+      "meaning": "It is very hot today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-ld721a",
+      "text": "明日 は 雨 が 降り ます。",
+      "meaning": "It will rain tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-4u1nzw",
+      "text": "昨日 は 家 に い ました。",
+      "meaning": "I was at home yesterday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-b46qpm",
+      "text": "私 は 日本語 が 好き です。",
+      "meaning": "I like Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-ul9wsb",
+      "text": "英語 は 少し 分かり ます。",
+      "meaning": "I understand a little English.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-wdf000",
+      "text": "あなた は 日本語 を 話し ます か。",
+      "meaning": "Do you speak Japanese?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-v5ptfk",
+      "text": "私 は コーヒー より お茶 が 好き です。",
+      "meaning": "I like tea more than coffee.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-xoo071",
+      "text": "母 は 毎日 料理 を 作り ます。",
+      "meaning": "My mother cooks every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-8h75ic",
+      "text": "父 は 車 を 運転 し ます。",
+      "meaning": "My father drives a car.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-zn1m83",
+      "text": "私 の 家 は 駅 の 近く です。",
+      "meaning": "My house is near the station.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-1t065j",
+      "text": "この 部屋 は 静か です。",
+      "meaning": "This room is quiet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-xhn9i5",
+      "text": "あの 店 は とても 人気 が あり ます。",
+      "meaning": "That shop is very popular.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-p6y2bn",
+      "text": "私 は 朝 六時 に 起き ます。",
+      "meaning": "I wake up at six in the morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-rrx8m8",
+      "text": "夜 十一時 に 寝 ます。",
+      "meaning": "I go to bed at eleven at night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-1k3f02",
+      "text": "朝 ご飯 を 食べ ません。",
+      "meaning": "I do not eat breakfast.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-5fh1jz",
+      "text": "毎日 牛乳 を 飲み ます。",
+      "meaning": "I drink milk every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-yao0l9",
+      "text": "猫 は 椅子 の 上 に い ます。",
+      "meaning": "The cat is on the chair.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-f5cqvn",
+      "text": "犬 は 庭 に い ます。",
+      "meaning": "The dog is in the yard.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-iygx76",
+      "text": "鳥 が 空 を 飛び ます。",
+      "meaning": "A bird flies in the sky.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-nrzrjl",
+      "text": "花 が たくさん 咲いて い ます。",
+      "meaning": "Many flowers are blooming.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-ryc246",
+      "text": "山 は とても 高い です。",
+      "meaning": "The mountain is very high.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-0pnfxc",
+      "text": "海 は 青くて きれい です。",
+      "meaning": "The sea is blue and beautiful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-6ck0x9",
+      "text": "川 の 水 は 冷たい です。",
+      "meaning": "The river water is cold.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-l5bax4",
+      "text": "私 は 音楽 を 聞く の が 好き です。",
+      "meaning": "I like listening to music.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-f91x6c",
+      "text": "毎週 映画 を 見 ます。",
+      "meaning": "I watch a movie every week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-446pg9",
+      "text": "この 歌 は とても 有名 です。",
+      "meaning": "This song is very famous.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-3dsvm0",
+      "text": "私 は 毎日 本 を 二冊 読み ます。",
+      "meaning": "I read two books every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-csdkqe",
+      "text": "手紙 を 書いて い ます。",
+      "meaning": "I am writing a letter.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-6dh80c",
+      "text": "ペン が あり ません。",
+      "meaning": "I do not have a pen.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-6kkam7",
+      "text": "鉛筆 を 貸して ください。",
+      "meaning": "Please lend me a pencil.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-3pu667",
+      "text": "ノート を 忘れ ました。",
+      "meaning": "I forgot my notebook.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-69dnaj",
+      "text": "先生 は 教室 に い ます。",
+      "meaning": "The teacher is in the classroom.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-r95w6k",
+      "text": "生徒 は 勉強 し て い ます。",
+      "meaning": "The students are studying.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-nts5pk",
+      "text": "宿題 は 簡単 です。",
+      "meaning": "The homework is easy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-mambqp",
+      "text": "この 問題 は 難しい です。",
+      "meaning": "This question is difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-sh41rj",
+      "text": "試験 は 来週 です。",
+      "meaning": "The exam is next week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-nb5kie",
+      "text": "私 は 毎日 練習 し ます。",
+      "meaning": "I practice every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-pmrgf0",
+      "text": "日本語 は 面白い 言語 です。",
+      "meaning": "Japanese is an interesting language.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-z78tw8",
+      "text": "この 漢字 は 難しい です。",
+      "meaning": "This kanji is difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-t3olae",
+      "text": "ひらがな を 書け ます。",
+      "meaning": "I can write hiragana.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-wkaqld",
+      "text": "カタカナ を 読め ます。",
+      "meaning": "I can read katakana.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-o812q9",
+      "text": "私 は 銀行 へ 行き ます。",
+      "meaning": "I go to the bank.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-h84zeu",
+      "text": "郵便局 は あそこ です。",
+      "meaning": "The post office is over there.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-g3fq1u",
+      "text": "病院 は 近い です。",
+      "meaning": "The hospital is near.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-zzail0",
+      "text": "医者 は とても 親切 です。",
+      "meaning": "The doctor is very kind.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-6j1unl",
+      "text": "薬 を 飲んで ください。",
+      "meaning": "Please take the medicine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00gk6-oxhpe1",
+      "text": "私 は 元気 です。",
+      "meaning": "I am healthy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:17:56.694Z"
+    },
+    {
+      "id": "mrn00sdj-mlj8qr",
+      "text": "私 は 毎日 水 を 飲み ます。",
+      "meaning": "I drink water every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-8avufi",
+      "text": "彼 は 学校 へ 行き ます。",
+      "meaning": "He goes to school.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-ghg6xl",
+      "text": "彼女 は 本 を 読み ます。",
+      "meaning": "She reads a book.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-2i7a09",
+      "text": "私たち は 公園 で 遊び ます。",
+      "meaning": "We play in the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-307jwj",
+      "text": "今日 は とても 暑い です。",
+      "meaning": "It is very hot today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-39i76c",
+      "text": "明日 は 雨 が 降り ます。",
+      "meaning": "It will rain tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-pyfjz8",
+      "text": "昨日 は 家 に い ました。",
+      "meaning": "I was at home yesterday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-88vu30",
+      "text": "私 は 日本語 が 好き です。",
+      "meaning": "I like Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-boqvds",
+      "text": "英語 は 少し 分かり ます。",
+      "meaning": "I understand a little English.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-mp8nhb",
+      "text": "あなた は 日本語 を 話し ます か。",
+      "meaning": "Do you speak Japanese?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-8yfcnv",
+      "text": "私 は コーヒー より お茶 が 好き です。",
+      "meaning": "I like tea more than coffee.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-jbjrm9",
+      "text": "母 は 毎日 料理 を 作り ます。",
+      "meaning": "My mother cooks every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-iql5sx",
+      "text": "父 は 車 を 運転 し ます。",
+      "meaning": "My father drives a car.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-toifi6",
+      "text": "私 の 家 は 駅 の 近く です。",
+      "meaning": "My house is near the station.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-fk02sl",
+      "text": "この 部屋 は 静か です。",
+      "meaning": "This room is quiet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-yh9si8",
+      "text": "あの 店 は とても 人気 が あり ます。",
+      "meaning": "That shop is very popular.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-s0zmmb",
+      "text": "私 は 朝 六時 に 起き ます。",
+      "meaning": "I wake up at six in the morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-5l58v6",
+      "text": "夜 十一時 に 寝 ます。",
+      "meaning": "I go to bed at eleven at night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-o7cqko",
+      "text": "朝 ご飯 を 食べ ません。",
+      "meaning": "I do not eat breakfast.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-l8um0q",
+      "text": "毎日 牛乳 を 飲み ます。",
+      "meaning": "I drink milk every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-he9ek8",
+      "text": "猫 は 椅子 の 上 に い ます。",
+      "meaning": "The cat is on the chair.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-axvq9b",
+      "text": "犬 は 庭 に い ます。",
+      "meaning": "The dog is in the yard.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-bx2qw1",
+      "text": "鳥 が 空 を 飛び ます。",
+      "meaning": "A bird flies in the sky.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-20rtza",
+      "text": "花 が たくさん 咲いて い ます。",
+      "meaning": "Many flowers are blooming.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-jrd02r",
+      "text": "山 は とても 高い です。",
+      "meaning": "The mountain is very high.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-egqefz",
+      "text": "海 は 青くて きれい です。",
+      "meaning": "The sea is blue and beautiful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-w3ep4h",
+      "text": "川 の 水 は 冷たい です。",
+      "meaning": "The river water is cold.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-5n9bgw",
+      "text": "私 は 音楽 を 聞く の が 好き です。",
+      "meaning": "I like listening to music.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-i5x6wp",
+      "text": "毎週 映画 を 見 ます。",
+      "meaning": "I watch a movie every week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-ayeaah",
+      "text": "この 歌 は とても 有名 です。",
+      "meaning": "This song is very famous.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-wxh9rt",
+      "text": "私 は 毎日 本 を 二冊 読み ます。",
+      "meaning": "I read two books every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-v9jxqa",
+      "text": "手紙 を 書いて い ます。",
+      "meaning": "I am writing a letter.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-5y2k2g",
+      "text": "ペン が あり ません。",
+      "meaning": "I do not have a pen.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-9w08f1",
+      "text": "鉛筆 を 貸して ください。",
+      "meaning": "Please lend me a pencil.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-f949st",
+      "text": "ノート を 忘れ ました。",
+      "meaning": "I forgot my notebook.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdj-uxnoc2",
+      "text": "先生 は 教室 に い ます。",
+      "meaning": "The teacher is in the classroom.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.007Z"
+    },
+    {
+      "id": "mrn00sdk-2gaupa",
+      "text": "生徒 は 勉強 し て い ます。",
+      "meaning": "The students are studying.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-xj021g",
+      "text": "宿題 は 簡単 です。",
+      "meaning": "The homework is easy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-5blum7",
+      "text": "この 問題 は 難しい です。",
+      "meaning": "This question is difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-mnwsxx",
+      "text": "試験 は 来週 です。",
+      "meaning": "The exam is next week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-aml7j1",
+      "text": "私 は 毎日 練習 し ます。",
+      "meaning": "I practice every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-k3y902",
+      "text": "日本語 は 面白い 言語 です。",
+      "meaning": "Japanese is an interesting language.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-blmpvh",
+      "text": "この 漢字 は 難しい です。",
+      "meaning": "This kanji is difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-1tdlf2",
+      "text": "ひらがな を 書け ます。",
+      "meaning": "I can write hiragana.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-i3ccj0",
+      "text": "カタカナ を 読め ます。",
+      "meaning": "I can read katakana.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-giqo5b",
+      "text": "私 は 銀行 へ 行き ます。",
+      "meaning": "I go to the bank.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-h6tzz4",
+      "text": "郵便局 は あそこ です。",
+      "meaning": "The post office is over there.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-tg2gli",
+      "text": "病院 は 近い です。",
+      "meaning": "The hospital is near.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-m3sh7c",
+      "text": "医者 は とても 親切 です。",
+      "meaning": "The doctor is very kind.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-zwsvl9",
+      "text": "薬 を 飲んで ください。",
+      "meaning": "Please take the medicine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-2tgjrn",
+      "text": "私 は 元気 です。",
+      "meaning": "I am healthy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-qlzpyu",
+      "text": "少し 熱 が あり ます。",
+      "meaning": "I have a slight fever.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-krtygl",
+      "text": "頭 が 痛い です。",
+      "meaning": "My head hurts.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-uogf0n",
+      "text": "水 を たくさん 飲んで ください。",
+      "meaning": "Please drink a lot of water.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-5wxxhq",
+      "text": "外 は 寒い です。",
+      "meaning": "It is cold outside.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-porz1v",
+      "text": "家 の 中 は 暖かい です。",
+      "meaning": "Inside the house is warm.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-04m1oc",
+      "text": "窓 を 開けて ください。",
+      "meaning": "Please open the window.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-qdw4sp",
+      "text": "ドア を 閉めて ください。",
+      "meaning": "Please close the door.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-so8i8r",
+      "text": "電気 を 消して ください。",
+      "meaning": "Please turn off the light.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-cmmmlz",
+      "text": "テレビ を 見て い ます。",
+      "meaning": "I am watching television.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-x4gxje",
+      "text": "ラジオ を 聞き ます。",
+      "meaning": "I listen to the radio.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-k685y0",
+      "text": "電話 が 鳴って い ます。",
+      "meaning": "The phone is ringing.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-2npuum",
+      "text": "友達 に 電話 し ます。",
+      "meaning": "I call my friend.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-7nq7be",
+      "text": "今日 は 忙しく あり ません。",
+      "meaning": "I am not busy today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-xil25h",
+      "text": "明日 は 仕事 が あり ます。",
+      "meaning": "I have work tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-25gyhw",
+      "text": "父 は 会社 で 働い て い ます。",
+      "meaning": "My father works at a company.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-83umm0",
+      "text": "母 は 家 に い ます。",
+      "meaning": "My mother is at home.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-fjrm9u",
+      "text": "私 は 買い物 に 行き ます。",
+      "meaning": "I am going shopping.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-a2fcrb",
+      "text": "この りんご は 甘い です。",
+      "meaning": "This apple is sweet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-12i5k4",
+      "text": "バナナ を 二本 買い ました。",
+      "meaning": "I bought two bananas.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-6dvvyg",
+      "text": "野菜 を 食べる こと は 大切 です。",
+      "meaning": "Eating vegetables is important.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-l2vaiu",
+      "text": "肉 より 魚 が 好き です。",
+      "meaning": "I like fish more than meat.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-o36pji",
+      "text": "卵 を 三つ 買い ます。",
+      "meaning": "I buy three eggs.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-ko0l8p",
+      "text": "パン は とても おいしい です。",
+      "meaning": "The bread is very delicious.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-n0gc87",
+      "text": "ケーキ を 食べ たい です。",
+      "meaning": "I want to eat cake.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-56odp6",
+      "text": "水 が あり ません。",
+      "meaning": "There is no water.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-nxxi6v",
+      "text": "財布 は 机 の 上 に あり ます。",
+      "meaning": "The wallet is on the desk.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-ee3z5w",
+      "text": "鍵 は かばん の 中 に あり ます。",
+      "meaning": "The key is in the bag.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-5xxrmo",
+      "text": "靴 を はき ます。",
+      "meaning": "I put on my shoes.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-97xjag",
+      "text": "帽子 を かぶり ます。",
+      "meaning": "I wear a hat.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-to9ko1",
+      "text": "新しい シャツ を 買い ました。",
+      "meaning": "I bought a new shirt.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-uoo8rz",
+      "text": "赤い 車 が 好き です。",
+      "meaning": "I like red cars.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-ivw1x4",
+      "text": "青い 空 が 見え ます。",
+      "meaning": "I can see the blue sky.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-cn5esi",
+      "text": "白い 猫 が い ます。",
+      "meaning": "There is a white cat.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-bisof9",
+      "text": "黒い 犬 が 走って い ます。",
+      "meaning": "A black dog is running.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-2cwnte",
+      "text": "公園 に 子ども が い ます。",
+      "meaning": "There are children in the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-o074zl",
+      "text": "学校 は 八時 に 始まり ます。",
+      "meaning": "School starts at eight.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-92tj2t",
+      "text": "授業 は 九時 から です。",
+      "meaning": "Class starts at nine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-2xnsr1",
+      "text": "私 は 一番 前 に 座り ます。",
+      "meaning": "I sit in the front.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-petv7i",
+      "text": "教室 は 二階 に あり ます。",
+      "meaning": "The classroom is on the second floor.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-m1xawf",
+      "text": "今日 は 金曜日 です。",
+      "meaning": "Today is Friday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-76py7s",
+      "text": "明日 は 土曜日 です。",
+      "meaning": "Tomorrow is Saturday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-zqd2sm",
+      "text": "日曜日 は 休み です。",
+      "meaning": "Sunday is a holiday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-5qjlmv",
+      "text": "来月 日本 へ 行き ます。",
+      "meaning": "I will go to Japan next month.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-qhtzyj",
+      "text": "来年 大学 へ 行き ます。",
+      "meaning": "I will go to university next year.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-vzmyf2",
+      "text": "時間 が あり ます か。",
+      "meaning": "Do you have time?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-jq7f8i",
+      "text": "少し 待って ください。",
+      "meaning": "Please wait a moment.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-qfzecd",
+      "text": "一緒 に 勉強 し ましょう。",
+      "meaning": "Let's study together.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-au0xa4",
+      "text": "また 会い ましょう。",
+      "meaning": "Let's meet again.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn00sdk-9fgxyp",
+      "text": "良い 週末 を。",
+      "meaning": "Have a good weekend.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:18:12.008Z"
+    },
+    {
+      "id": "mrn01xtx-navver",
+      "text": "私 は 毎朝 七時 に 起き ます。",
+      "meaning": "I wake up at seven every morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-yx3b1s",
+      "text": "朝 は 顔 を 洗い ます。",
+      "meaning": "I wash my face in the morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-abzijc",
+      "text": "歯 を 磨き ます。",
+      "meaning": "I brush my teeth.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-5fmzc8",
+      "text": "朝 ご飯 の 前 に 水 を 飲み ます。",
+      "meaning": "I drink water before breakfast.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-19ihd9",
+      "text": "私 は 毎日 学校 へ 歩いて 行き ます。",
+      "meaning": "I walk to school every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-ryqdy4",
+      "text": "今日は とても 忙しい 一日 です。",
+      "meaning": "Today is a very busy day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-csvyo2",
+      "text": "私 は 毎晩 本 を 読み ます。",
+      "meaning": "I read a book every night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-w56gsr",
+      "text": "毎週 日曜日 に 家族 と 会い ます。",
+      "meaning": "I meet my family every Sunday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-gkk0hb",
+      "text": "私 の 父 は 新聞 を 読み ます。",
+      "meaning": "My father reads the newspaper.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xtx-rnsa5h",
+      "text": "母 は 花 が 好き です。",
+      "meaning": "My mother likes flowers.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.733Z"
+    },
+    {
+      "id": "mrn01xty-4zx0gc",
+      "text": "私 の 兄 は サッカー を し ます。",
+      "meaning": "My older brother plays soccer.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-agusn4",
+      "text": "妹 は 音楽 を 聞き ます。",
+      "meaning": "My younger sister listens to music.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-spidl9",
+      "text": "私 は 犬 と 公園 を 歩き ます。",
+      "meaning": "I walk in the park with my dog.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-g24hh9",
+      "text": "猫 は ソファ の 上 で 寝て い ます。",
+      "meaning": "The cat is sleeping on the sofa.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-nlbpa8",
+      "text": "鳥 は 木 に とまって い ます。",
+      "meaning": "The bird is sitting in the tree.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-v378nf",
+      "text": "今日 は 空 が とても 青い です。",
+      "meaning": "The sky is very blue today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-r6s627",
+      "text": "雨 の 日 は 家 に い ます。",
+      "meaning": "I stay home on rainy days.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-fdzkh3",
+      "text": "雪 の 日 は とても 寒い です。",
+      "meaning": "Snowy days are very cold.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-fc9f3v",
+      "text": "夏 は 海 へ 行き ます。",
+      "meaning": "I go to the sea in summer.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-yhawmz",
+      "text": "冬 は 山 へ 行き ます。",
+      "meaning": "I go to the mountains in winter.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-oz7nqy",
+      "text": "春 は 花 が 咲き ます。",
+      "meaning": "Flowers bloom in spring.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-fagirb",
+      "text": "秋 は 葉 が 赤く なり ます。",
+      "meaning": "The leaves turn red in autumn.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-xj501t",
+      "text": "私 は 赤い ペン を 使い ます。",
+      "meaning": "I use a red pen.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-0qzmcn",
+      "text": "青い ノート が 好き です。",
+      "meaning": "I like blue notebooks.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-yhhicc",
+      "text": "この 辞書 は とても 便利 です。",
+      "meaning": "This dictionary is very useful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-koz1og",
+      "text": "日本語 の 勉強 は 楽しい です。",
+      "meaning": "Studying Japanese is fun.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-7ijxe5",
+      "text": "毎日 新しい 言葉 を 覚え ます。",
+      "meaning": "I learn new words every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-d6cw53",
+      "text": "先生 は ゆっくり 話し ます。",
+      "meaning": "The teacher speaks slowly.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-xgvcg1",
+      "text": "私 は 質問 が あり ます。",
+      "meaning": "I have a question.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-ryrfej",
+      "text": "答え は 正しい です。",
+      "meaning": "The answer is correct.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-8mgu5d",
+      "text": "私 は 漢字 を 書く 練習 を し ます。",
+      "meaning": "I practice writing kanji.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-tccjyr",
+      "text": "友達 は 日本語 が 上手 です。",
+      "meaning": "My friend is good at Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-pipre0",
+      "text": "私 は 毎日 少し ずつ 勉強 し ます。",
+      "meaning": "I study a little every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-nwddzh",
+      "text": "一時間 日本語 を 勉強 し ます。",
+      "meaning": "I study Japanese for one hour.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-romkyo",
+      "text": "私 は 図書館 で 本 を 読み ます。",
+      "meaning": "I read books at the library.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-eilp8l",
+      "text": "図書館 は とても 静か です。",
+      "meaning": "The library is very quiet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-nyhocx",
+      "text": "銀行 は 九時 に 開き ます。",
+      "meaning": "The bank opens at nine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-5cp63m",
+      "text": "郵便局 は 駅 の 前 に あり ます。",
+      "meaning": "The post office is in front of the station.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-240z3p",
+      "text": "病院 は 月曜日 に 休み です。",
+      "meaning": "The hospital is closed on Monday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-1l0ado",
+      "text": "薬局 で 薬 を 買い ます。",
+      "meaning": "I buy medicine at the pharmacy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-zu13h9",
+      "text": "私 は 元気 に なり ました。",
+      "meaning": "I became healthy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-ac4f2t",
+      "text": "お腹 が 空き ました。",
+      "meaning": "I am hungry.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-4pwm6e",
+      "text": "のど が 渇き ました。",
+      "meaning": "I am thirsty.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-dqr437",
+      "text": "コーヒー を 一杯 飲み ます。",
+      "meaning": "I drink one cup of coffee.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-6nv187",
+      "text": "お茶 は とても 温かい です。",
+      "meaning": "The tea is very warm.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-7tubq0",
+      "text": "パン と 卵 を 食べ ます。",
+      "meaning": "I eat bread and eggs.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-kpyf37",
+      "text": "野菜 を 毎日 食べ ます。",
+      "meaning": "I eat vegetables every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-qq2ztt",
+      "text": "果物 は 体 に 良い です。",
+      "meaning": "Fruit is good for your body.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-7iqdy5",
+      "text": "母 は おいしい ケーキ を 作り ます。",
+      "meaning": "My mother makes delicious cake.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-d468va",
+      "text": "私 は 甘い お菓子 が 好き です。",
+      "meaning": "I like sweet snacks.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-42752g",
+      "text": "スーパー で 買い物 を し ます。",
+      "meaning": "I shop at the supermarket.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xty-np2jtb",
+      "text": "店 は 八時 に 開き ます。",
+      "meaning": "The shop opens at eight.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.734Z"
+    },
+    {
+      "id": "mrn01xtz-stcsvt",
+      "text": "店 は 九時 に 閉まり ます。",
+      "meaning": "The shop closes at nine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-2r8esf",
+      "text": "この シャツ は 安い です。",
+      "meaning": "This shirt is cheap.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-qqc5da",
+      "text": "あの 靴 は 高い です。",
+      "meaning": "Those shoes are expensive.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-3za2jt",
+      "text": "新しい かばん を 買い ました。",
+      "meaning": "I bought a new bag.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-d9gcia",
+      "text": "財布 に お金 が あり ます。",
+      "meaning": "There is money in my wallet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-os6ffm",
+      "text": "切符 を 買って ください。",
+      "meaning": "Please buy a ticket.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-8n7iqr",
+      "text": "電車 は 時間 通り に 来ます。",
+      "meaning": "The train arrives on time.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-pjupuc",
+      "text": "バス は 少し 遅れ ました。",
+      "meaning": "The bus was a little late.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-lvonyr",
+      "text": "飛行機 は 空港 を 出発 し ます。",
+      "meaning": "The airplane leaves the airport.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-a5c73s",
+      "text": "私 は 日本 へ 旅行 し たい です。",
+      "meaning": "I want to travel to Japan.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-sq2hpb",
+      "text": "地図 を 見て ください。",
+      "meaning": "Please look at the map.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-dggl9t",
+      "text": "この 道 は まっすぐ です。",
+      "meaning": "This road is straight.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-3gi3a9",
+      "text": "右 に 曲がって ください。",
+      "meaning": "Please turn right.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-ojold1",
+      "text": "左 に 曲がって ください。",
+      "meaning": "Please turn left.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-qpqgq5",
+      "text": "駅 は ここ から 近い です。",
+      "meaning": "The station is near here.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-zuqcm1",
+      "text": "公園 は 学校 の 後ろ に あり ます。",
+      "meaning": "The park is behind the school.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-wp7xg1",
+      "text": "私 は 毎日 運動 を し ます。",
+      "meaning": "I exercise every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-yc7jf8",
+      "text": "サッカー は 面白い です。",
+      "meaning": "Soccer is interesting.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-3hdmux",
+      "text": "野球 を 見る の が 好き です。",
+      "meaning": "I like watching baseball.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-8yieup",
+      "text": "テニス を し ます。",
+      "meaning": "I play tennis.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-sqky90",
+      "text": "夏 に 泳ぎ ます。",
+      "meaning": "I swim in summer.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-by9iwc",
+      "text": "私 の 趣味 は 写真 です。",
+      "meaning": "My hobby is photography.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-si17oe",
+      "text": "きれいな 写真 を 撮り ました。",
+      "meaning": "I took a beautiful picture.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-auxdrw",
+      "text": "音楽 を 聞き ながら 勉強 し ます。",
+      "meaning": "I study while listening to music.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-ke8uvm",
+      "text": "この 映画 は とても 面白い です。",
+      "meaning": "This movie is very interesting.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-d52k2j",
+      "text": "私 は 日本 の 文化 が 好き です。",
+      "meaning": "I like Japanese culture.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-4vyt1m",
+      "text": "お祭り は とても にぎやか です。",
+      "meaning": "Festivals are very lively.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-ca7l2g",
+      "text": "家族 と 一緒 に ご飯 を 食べ ます。",
+      "meaning": "I eat with my family.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-u8augy",
+      "text": "毎週 土曜日 に 掃除 を し ます。",
+      "meaning": "I clean every Saturday.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-d9k4s9",
+      "text": "部屋 を きれい に し ます。",
+      "meaning": "I clean my room.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-18vcom",
+      "text": "窓 を 開ける と 涼しい です。",
+      "meaning": "It is cool when I open the window.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-swqc3e",
+      "text": "ドア を 閉めて ください。",
+      "meaning": "Please close the door.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-uyj96h",
+      "text": "電気 を つけて ください。",
+      "meaning": "Please turn on the light.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-j6phbq",
+      "text": "携帯 電話 が 鳴って い ます。",
+      "meaning": "My mobile phone is ringing.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-23nkib",
+      "text": "毎日 母 に 電話 を し ます。",
+      "meaning": "I call my mother every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-gblbca",
+      "text": "私 は 忙しい ですが 元気 です。",
+      "meaning": "I am busy, but I am fine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-56vvxc",
+      "text": "今日 は とても 良い 日 です。",
+      "meaning": "Today is a very good day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-r5l2yb",
+      "text": "明日 は 早く 起きる つもり です。",
+      "meaning": "I plan to wake up early tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-6vubd2",
+      "text": "来週 試験 が あり ます。",
+      "meaning": "I have an exam next week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-uslqy0",
+      "text": "一緒 に 宿題 を し ましょう。",
+      "meaning": "Let's do homework together.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-y789s5",
+      "text": "私 は あなた を 手伝い ます。",
+      "meaning": "I will help you.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-mg3xj3",
+      "text": "少し 休み ましょう。",
+      "meaning": "Let's take a short break.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-zyxqzb",
+      "text": "水 を もう 一杯 ください。",
+      "meaning": "Please give me one more glass of water.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-eas59k",
+      "text": "私 は 日本語 を 毎日 使い ます。",
+      "meaning": "I use Japanese every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xtz-ab94j9",
+      "text": "今日 は とても 楽しかった です。",
+      "meaning": "Today was very enjoyable.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.735Z"
+    },
+    {
+      "id": "mrn01xu0-a17g3x",
+      "text": "また 明日 会い ましょう。",
+      "meaning": "Let's meet again tomorrow.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.736Z"
+    },
+    {
+      "id": "mrn01xu0-8rawqj",
+      "text": "あなた の 一日 は どう でした か。",
+      "meaning": "How was your day?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.736Z"
+    },
+    {
+      "id": "mrn01xu0-zblzqv",
+      "text": "良い 夢 を 見て ください。",
+      "meaning": "Have good dreams.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:05.736Z"
+    },
+    {
+      "id": "mrn02s1r-c0o84s",
+      "text": "私 は 毎朝 コーヒー を 飲み ます。",
+      "meaning": "I drink coffee every morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.895Z"
+    },
+    {
+      "id": "mrn02s1r-s2524y",
+      "text": "朝 ご飯 は 七時 に 食べ ます。",
+      "meaning": "I eat breakfast at seven.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.895Z"
+    },
+    {
+      "id": "mrn02s1s-feazg2",
+      "text": "私 は 毎日 新聞 を 読み ます。",
+      "meaning": "I read the newspaper every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-r6lho5",
+      "text": "父 は 朝 早く 起き ます。",
+      "meaning": "My father wakes up early.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-tw35g7",
+      "text": "母 は 毎朝 お茶 を 飲み ます。",
+      "meaning": "My mother drinks tea every morning.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-o6u6uk",
+      "text": "私 の 家族 は 五人 です。",
+      "meaning": "There are five people in my family.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-dwub05",
+      "text": "私 は 一人 で 住んで い ます。",
+      "meaning": "I live alone.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-j04uem",
+      "text": "友達 は 東京 に 住んで い ます。",
+      "meaning": "My friend lives in Tokyo.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-eldhwo",
+      "text": "私 は 毎日 電車 を 使い ます。",
+      "meaning": "I use the train every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-di8xv2",
+      "text": "駅 は 家 から 十分 です。",
+      "meaning": "The station is ten minutes from my house.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-olunqc",
+      "text": "学校 は 八時半 に 始まり ます。",
+      "meaning": "School starts at 8:30.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-l3hsmc",
+      "text": "私 は 教室 の 前 に 座り ます。",
+      "meaning": "I sit at the front of the classroom.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-0y93sk",
+      "text": "先生 は 親切 な 人 です。",
+      "meaning": "The teacher is a kind person.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-4ekiuh",
+      "text": "今日 は 宿題 が 多い です。",
+      "meaning": "There is a lot of homework today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-bb62mj",
+      "text": "私 は 毎日 日本語 を 書き ます。",
+      "meaning": "I write Japanese every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-ucq6af",
+      "text": "新しい 単語 を 覚え ました。",
+      "meaning": "I learned a new word.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-rc4c23",
+      "text": "この 本 は とても 分かり やすい です。",
+      "meaning": "This book is very easy to understand.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-sv2hno",
+      "text": "私 は 辞書 を よく 使い ます。",
+      "meaning": "I often use a dictionary.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-22gd19",
+      "text": "分からない 言葉 が あり ます。",
+      "meaning": "There is a word I don't understand.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-5fg1wq",
+      "text": "先生 に 質問 を し ます。",
+      "meaning": "I ask the teacher a question.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-skp2oj",
+      "text": "私 は 日本 の 歴史 に 興味 が あり ます。",
+      "meaning": "I am interested in Japanese history.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-c72xa4",
+      "text": "今日 は 風 が 強い です。",
+      "meaning": "The wind is strong today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-g4ha8g",
+      "text": "外 は とても 暑い です。",
+      "meaning": "It is very hot outside.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-urlzz4",
+      "text": "部屋 の 中 は 涼しい です。",
+      "meaning": "The room is cool.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-rr8o3a",
+      "text": "雨 が 止み ました。",
+      "meaning": "The rain has stopped.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-qakz7k",
+      "text": "空 に 星 が 見え ます。",
+      "meaning": "I can see stars in the sky.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-tpmn13",
+      "text": "月 が とても きれい です。",
+      "meaning": "The moon is very beautiful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-eh6eff",
+      "text": "太陽 が 明るい です。",
+      "meaning": "The sun is bright.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-ob7bxe",
+      "text": "花 に 水 を あげ ます。",
+      "meaning": "I water the flowers.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-e64dfl",
+      "text": "木 の 下 で 休み ます。",
+      "meaning": "I rest under the tree.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-crfo8w",
+      "text": "公園 に 子ども が たくさん い ます。",
+      "meaning": "There are many children in the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-1b7cfe",
+      "text": "私 は 毎週 図書館 へ 行き ます。",
+      "meaning": "I go to the library every week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-q0v6tc",
+      "text": "本 を 二週間 借り ます。",
+      "meaning": "I borrow books for two weeks.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-fzu9he",
+      "text": "この 本 を 返し ます。",
+      "meaning": "I return this book.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1s-n6odb8",
+      "text": "私 は 手紙 を 母 に 書き ます。",
+      "meaning": "I write a letter to my mother.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.896Z"
+    },
+    {
+      "id": "mrn02s1t-zhbook",
+      "text": "毎日 音楽 を 聞き ます。",
+      "meaning": "I listen to music every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-3ojfz9",
+      "text": "私 は ピアノ を 弾き ます。",
+      "meaning": "I play the piano.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-xs4m36",
+      "text": "歌 を 歌う の が 好き です。",
+      "meaning": "I like singing songs.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-4mphgm",
+      "text": "映画 は 七時 から 始まり ます。",
+      "meaning": "The movie starts at seven.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-qjz03q",
+      "text": "私 は 毎月 一本 映画 を 見 ます。",
+      "meaning": "I watch one movie every month.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-lt8gzz",
+      "text": "スーパー は 九時 に 開き ます。",
+      "meaning": "The supermarket opens at nine.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-yr31hb",
+      "text": "牛乳 を 一本 買い ます。",
+      "meaning": "I buy one bottle of milk.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-5b2jxp",
+      "text": "パン を 二つ 買い ます。",
+      "meaning": "I buy two pieces of bread.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-nzzmmd",
+      "text": "野菜 は 新鮮 です。",
+      "meaning": "The vegetables are fresh.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-z69wgb",
+      "text": "この 果物 は 甘い です。",
+      "meaning": "This fruit is sweet.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-q89jrl",
+      "text": "水 を 冷蔵庫 に 入れ ます。",
+      "meaning": "I put the water in the refrigerator.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-2zrxke",
+      "text": "母 は 台所 に い ます。",
+      "meaning": "My mother is in the kitchen.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-7sxzw1",
+      "text": "私 は 毎日 料理 を 手伝い ます。",
+      "meaning": "I help cook every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-9lfro7",
+      "text": "テーブル を きれい に し ます。",
+      "meaning": "I clean the table.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-z84kko",
+      "text": "食事 の 前 に 手 を 洗い ます。",
+      "meaning": "I wash my hands before eating.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-9ufbk7",
+      "text": "食事 の 後 で 歯 を 磨き ます。",
+      "meaning": "I brush my teeth after meals.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-n09mf9",
+      "text": "私 は 健康 に 気 を つけ ます。",
+      "meaning": "I take care of my health.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-361o1p",
+      "text": "毎日 水 を 二 リットル 飲み ます。",
+      "meaning": "I drink two liters of water every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-myftfw",
+      "text": "毎日 少し 運動 を し ます。",
+      "meaning": "I exercise a little every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-mirq5j",
+      "text": "私 は 公園 を 走り ます。",
+      "meaning": "I run in the park.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-bxnhbd",
+      "text": "毎週 プール で 泳ぎ ます。",
+      "meaning": "I swim at the pool every week.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-wlbhl6",
+      "text": "今日 は とても 疲れ ました。",
+      "meaning": "I am very tired today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-n3ekss",
+      "text": "少し 休み たい です。",
+      "meaning": "I want to rest a little.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-4e9ht0",
+      "text": "昨夜 は よく 寝 ました。",
+      "meaning": "I slept well last night.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-sbwigi",
+      "text": "今日 は 元気 が あり ます。",
+      "meaning": "I have lots of energy today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-m09m2g",
+      "text": "私 は 毎日 笑い ます。",
+      "meaning": "I laugh every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-ip9yt0",
+      "text": "友達 は 面白い 人 です。",
+      "meaning": "My friend is a funny person.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-5p2r46",
+      "text": "私 は 日本 の 食べ物 が 好き です。",
+      "meaning": "I like Japanese food.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-1wkd3q",
+      "text": "寿司 を 食べた こと が あり ます。",
+      "meaning": "I have eaten sushi.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-czscgy",
+      "text": "ラーメン は とても おいしい です。",
+      "meaning": "Ramen is very delicious.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-avqa75",
+      "text": "お茶 を 一緒 に 飲み ません か。",
+      "meaning": "Would you like to drink tea together?",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-rkx2sj",
+      "text": "はい、行き ましょう。",
+      "meaning": "Yes, let's go.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-uadecq",
+      "text": "いいえ、今日 は 行け ません。",
+      "meaning": "No, I can't go today.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-72pljj",
+      "text": "少し 待って ください。",
+      "meaning": "Please wait a moment.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-hbf65a",
+      "text": "もう 一度 説明 して ください。",
+      "meaning": "Please explain it one more time.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-g6s6tx",
+      "text": "ゆっくり 読んで ください。",
+      "meaning": "Please read slowly.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-b265cz",
+      "text": "日本語 は 少し 難しい です。",
+      "meaning": "Japanese is a little difficult.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-ymd9hc",
+      "text": "でも、とても 楽しい です。",
+      "meaning": "But it is very enjoyable.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-tzv0lm",
+      "text": "毎日 勉強 する こと が 大切 です。",
+      "meaning": "Studying every day is important.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-2w3qws",
+      "text": "私 は あきらめ ません。",
+      "meaning": "I do not give up.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-rpolg2",
+      "text": "毎日 少し ずつ 上手 に なり ます。",
+      "meaning": "I get better little by little every day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1t-pvq9q9",
+      "text": "私 は 新しい 友達 を 作り たい です。",
+      "meaning": "I want to make new friends.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.897Z"
+    },
+    {
+      "id": "mrn02s1u-7xteqd",
+      "text": "あなた は とても 親切 です。",
+      "meaning": "You are very kind.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-3xoltg",
+      "text": "一緒 に 写真 を 撮り ましょう。",
+      "meaning": "Let's take a picture together.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-jtn9u5",
+      "text": "この 景色 は とても きれい です。",
+      "meaning": "This scenery is very beautiful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-lttw1s",
+      "text": "私 は 旅行 が 大好き です。",
+      "meaning": "I love traveling.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-v1fiua",
+      "text": "来年 京都 へ 行き たい です。",
+      "meaning": "I want to go to Kyoto next year.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-yc89e3",
+      "text": "京都 は 有名 な 町 です。",
+      "meaning": "Kyoto is a famous city.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-u6qajr",
+      "text": "東京 は 人 が 多い です。",
+      "meaning": "Tokyo has many people.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-j57nqu",
+      "text": "北海道 は 冬 が 寒い です。",
+      "meaning": "Hokkaido is cold in winter.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-fatteh",
+      "text": "沖縄 は 海 が きれい です。",
+      "meaning": "Okinawa has beautiful seas.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-de21q6",
+      "text": "飛行機 は 時間 通り に 出発 し ました。",
+      "meaning": "The airplane departed on time.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-mwyue2",
+      "text": "私 は 窓 の 席 が 好き です。",
+      "meaning": "I like window seats.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-wmsvka",
+      "text": "荷物 は 重く あり ません。",
+      "meaning": "My luggage is not heavy.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-3whfj5",
+      "text": "この 地図 は とても 便利 です。",
+      "meaning": "This map is very useful.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-w2obrd",
+      "text": "右 の 道 を 行って ください。",
+      "meaning": "Please take the road on the right.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-fib9me",
+      "text": "左 に 銀行 が あり ます。",
+      "meaning": "There is a bank on the left.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-83inno",
+      "text": "まっすぐ 行く と 駅 が あり ます。",
+      "meaning": "Go straight and you will find the station.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-6rk3mt",
+      "text": "私 は 道 に 迷い ました。",
+      "meaning": "I got lost.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-m4a2fa",
+      "text": "助けて くれて ありがとう。",
+      "meaning": "Thank you for helping me.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-ewvpkm",
+      "text": "また 会えて うれしい です。",
+      "meaning": "I am happy to see you again.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-9wcdrt",
+      "text": "今日 は 本当に 楽しかった です。",
+      "meaning": "Today was really fun.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-d8of9p",
+      "text": "また 一緒 に 勉強 し ましょう。",
+      "meaning": "Let's study together again.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-92eh4p",
+      "text": "日本語 を 頑張り ましょう。",
+      "meaning": "Let's do our best in Japanese.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    },
+    {
+      "id": "mrn02s1u-z314ow",
+      "text": "良い 一日 を 過ごして ください。",
+      "meaning": "Have a wonderful day.",
+      "correctCount": 0,
+      "wrongCount": 0,
+      "dateAdded": "2026-07-16T04:19:44.898Z"
+    }
+  ],
+  "exportedAt": "2026-07-16T04:19:48.821Z"
+}
